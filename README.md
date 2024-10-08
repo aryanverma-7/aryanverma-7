@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aryan-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[aryan-verma-60ba32316](https://www.linkedin.com/in/aryan-verma-60ba32316?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRxRzOhcSSNKmHCcNcA19Gw%3D%3D)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryanverma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanverma7" height="30" width="40" /></a>
 <a href="https://instagram.com/aryannomad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryannomad" height="30" width="40" /></a>
 </p>
 
