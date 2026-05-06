@@ -39,34 +39,41 @@ src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<table>
+<tr>
 
-<a href="https://www.linkedin.com/in/aryanverma7/" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="40"
-width="40" />
+<td align="center" width="96">
+<a href="https://www.linkedin.com/in/aryanverma7/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+width="48"
+height="48"
+alt="LinkedIn" />
+<br>LinkedIn
 </a>
+</td>
 
-<a href="https://instagram.com/aryannomad" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="Instagram"
-height="40"
-width="40" />
+<td align="center" width="96">
+<a href="https://instagram.com/aryannomad" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+width="48"
+height="48"
+alt="Instagram" />
+<br>Instagram
 </a>
+</td>
 
-<a href="https://github.com/aryanverma-7" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-alt="GitHub"
-height="40"
-width="40" />
+<td align="center" width="96">
+<a href="https://github.com/aryanverma-7" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+width="48"
+height="48"
+alt="GitHub" />
+<br>GitHub
 </a>
+</td>
 
-</p>
-
+</tr>
+</table>
 ---
 
 ## 🛠 Languages and Tools
@@ -123,7 +130,7 @@ width="40" />
 </tr>
 </table>
 
----
+
 
 ## 📊 GitHub Stats
 
